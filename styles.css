@@ -63,7 +63,7 @@ body {
   }
   
   .section.home {
-    background-image: url('home-background.jpg');
+    background-image: url('https://previews.123rf.com/images/bsd555/bsd5551908/bsd555190801910/129558263-ict-blue-word-concepts-banner-presentation-website-information-and-communication-technology.jpg');
     background-size: cover;
     color: white;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
@@ -165,3 +165,232 @@ body {
     background-color: #555;
   }
   
+  /* note
+  /* Your existing CSS styles here */
+
+/* Your existing CSS styles here */
+
+/* Your existing CSS styles here */
+
+#note {
+  background-color: #f9f9f9;
+  padding: 80px 0;
+}
+
+.note-content {
+  max-width: 600px;
+  margin: 0 auto;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  padding: 30px;
+}
+
+.note-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.note-header h2 {
+  font-size: 24px;
+  color: #333;
+  margin: 0;
+}
+
+.note-date {
+  font-size: 14px;
+  color: #777;
+}
+
+.note-text p {
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+  color: #666;
+  text-align: justify;
+}
+
+/* Your existing CSS styles here */
+
+#question {
+  background-color: #f9f9f9;
+  padding: 80px 0;
+}
+
+#question h2 {
+  text-align: center;
+  color: #333;
+  font-size: 36px;
+  margin-bottom: 30px;
+}
+
+.question-content {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+#question-text {
+  font-size: 24px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+  color: #666;
+  text-align: center;
+}
+
+#generate-button {
+  display: block;
+  margin: 0 auto;
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+#generate-button:hover {
+  background-color: #555;
+}
+
+/* Your existing CSS styles here */
+
+#about {
+  background-color: #f9f9f9;
+  padding: 80px 0;
+}
+
+.about-content {
+  max-width: 900px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.about-text {
+  flex-grow: 1;
+}
+
+.about-text h2 {
+  font-size: 36px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.about-text p {
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+  color: #666;
+  text-align: justify;
+}
+
+.about-image img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Your existing CSS styles here */
+
+#contact {
+  background-color: #f9f9f9;
+  padding: 80px 0;
+}
+
+.contact-content {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.contact-content h2 {
+  font-size: 36px;
+  color: #333;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.contact-form .form-group {
+  margin-bottom: 20px;
+}
+
+.contact-form label {
+  display: block;
+  font-size: 18px;
+  color: #333;
+  margin-bottom: 5px;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+.contact-form textarea {
+  height: 120px;
+}
+
+.contact-form button {
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.contact-form button:hover {
+  background-color: #555;
+}
+
+/* Your existing CSS styles here */
+
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px 0;
+}
+
+.footer-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer-left p {
+  margin: 0;
+}
+
+.footer-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-links li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.footer-links li:last-child {
+  margin-right: 0;
+}
+
+.footer-links a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+}
